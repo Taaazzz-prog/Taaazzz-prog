@@ -11,8 +11,8 @@
 ### À propos de moi :
 
 - 👀 **Je m'intéresse aux langages de programmation pour le développement d'applications**, tels que :
-  - **JavaScript** (pour le développement web et côté serveur)
-  - **Node.js** (pour le coté serveur)
+  - **JavaScript** (pour le front end avec angular)
+  - **Node.js** (pour le back end en utilisant MongoDB et express)
   - **C#** (pour le développement de jeux et les applications de bureau)
 
 - 🌱 **J'étudie actuellement à** *Numerica, Montbéliard*, **pour devenir concepteur d'applications.**
