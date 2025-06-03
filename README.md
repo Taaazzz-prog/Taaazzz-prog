@@ -12,8 +12,7 @@
 
 - 👀 **Je m'intéresse aux langages de programmation pour le développement d'applications**, tels que :
   - **JavaScript** (pour le développement web et côté serveur)
-  - **Python** (pour le scripting et l'analyse de données)
-  - **Java** (pour les applications mobiles et d'entreprise)
+  - **Node.js** (pour le coté serveur)
   - **C#** (pour le développement de jeux et les applications de bureau)
 
 - 🌱 **J'étudie actuellement à** *Numerica, Montbéliard*, **pour devenir concepteur d'applications.**
